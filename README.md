@@ -4,7 +4,7 @@
 
 I'm a backend engineer / web developer / tech leader for [Bitmama Reply](https://www.bitmama.it/), an Italian web agency headquartered in Milan, Turin and London. 
 
-I feel confortable working in the [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) stack environment, where P stay for PHP.
+I feel confortable working in the [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) stack environment, where P stays for PHP.
 
 ## :fire: Streak stats
 
