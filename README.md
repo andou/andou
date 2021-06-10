@@ -6,6 +6,8 @@ I'm a backend engineer / web developer / tech leader for [Bitmama Reply](https:/
 
 I feel confortable working in the [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) stack environment, where P stay for PHP.
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=andou&theme=dark)](https://git.io/streak-stats)
+
 ## Tech
 
 Please take a look and drop a :star2: to my list of useful resources
