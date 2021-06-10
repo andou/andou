@@ -1,4 +1,4 @@
-![download.png](https://i.postimg.cc/zfjQVmcR/download.png)
+![slice](https://capsule-render.vercel.app/api?type=slice&color=379A39&fontColor=green&height=200&text=hey+there+🖖&fontAlign=70&rotate=13&fontAlignY=25&desc=I%27m+Andou&descAlign=70.&descAlignY=44)
 
 ## :office: What I do?
 
