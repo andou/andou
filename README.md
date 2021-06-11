@@ -1,4 +1,4 @@
-![slice](https://capsule-render.vercel.app/api?type=slice&color=379A39&fontColor=green&height=200&text=hey+there+🖖&fontAlign=70&rotate=13&fontAlignY=25&desc=I%27m+Andou&descAlign=70.&descAlignY=44)
+![header](https://capsule-render.vercel.app/api?type=waving&color=1C5C05&height=300&section=header&text=hey+there+🖖&fontColor=EEEEEE&fontSize=75&animation=fadeIn&fontAlignY=38&desc=I%27m+Andou&descAlignY=51&descAlign=62)
 
 ## :office: What I do?
 
