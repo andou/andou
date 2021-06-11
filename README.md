@@ -6,10 +6,6 @@ I'm a backend engineer / web developer / tech leader for [Bitmama Reply](https:/
 
 I feel confortable working in the [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) stack environment, where P stays for PHP.
 
-## :fire: Streak stats
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=andou&theme=dark)](https://git.io/streak-stats)
-
 ## :wrench: Tech
 
 Please take a look and drop a :star2: to my list of useful resources
@@ -22,6 +18,13 @@ I love hiking and with my wife I like to explore mountains and nature. Please ta
 
 ## :guitar: Music
 
-I'm also passionate about metal and extreme music :metal: Below is a list of what I've listen to recently.
+I'm also passionate about metal and extreme music :metal: Below is a _germinal_ list of personal music suggestions
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1169537090)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andou&repo=music-suggestions&theme=dark&show_owner=true)](https://github.com/andou/music-suggestions)
+
+## :video_game: Diversion
+
+Other than tech, hiking, trekking and music I'm passionate about a bunch of other stuffs. Give a chance to this list of interesting links
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andou&repo=take-a-break&theme=dark&show_owner=true)](https://github.com/andou/take-a-break)
+
