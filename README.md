@@ -22,6 +22,9 @@ I'm also passionate about metal and extreme music :metal: Below is a _germinal_ 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andou&repo=music-suggestions&theme=dark&show_owner=true)](https://github.com/andou/music-suggestions)
 
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1169537090&cover_image=true&theme=default&bar_color=334271&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 ## :video_game: Diversion
 
 Other than tech, hiking, trekking and music I'm passionate about a bunch of other stuffs. Give a chance to this list of interesting links
